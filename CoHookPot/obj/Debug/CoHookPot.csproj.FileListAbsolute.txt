@@ -1,0 +1,6 @@
+C:\Users\Ademario\Desktop\CoHookPot\CoHookPot\bin\Debug\CoHookPot.exe.config
+C:\Users\Ademario\Desktop\CoHookPot\CoHookPot\obj\Debug\CoHookPot.csprojResolveAssemblyReference.cache
+C:\Users\Ademario\Desktop\CoHookPot\CoHookPot\bin\Debug\CoHookPot.exe
+C:\Users\Ademario\Desktop\CoHookPot\CoHookPot\bin\Debug\CoHookPot.pdb
+C:\Users\Ademario\Desktop\CoHookPot\CoHookPot\obj\Debug\CoHookPot.exe
+C:\Users\Ademario\Desktop\CoHookPot\CoHookPot\obj\Debug\CoHookPot.pdb
